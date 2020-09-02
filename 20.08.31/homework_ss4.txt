@@ -1,0 +1,18 @@
+Bài 1: (nâng cao)
+    - Tìm hiểu về đồng bộ, bất đồng bộ trong javascript?
+    - Xử lý bất đồng bộ trong javascript là gì? Vì sao cần xử lý bất đồng bộ?
+    - Có bao nhiêu phương pháp xử lý bất đồng bộ trong javascript?
+
+Bài 2: (OOP) Hãy xây dựng chương trình "Quản lý lớp môn học":
+    - Mỗi lớp môn học gồm các thông tin: mã lớp, tên môn học, giảng viên, các sinh viên
+    - Giảng viên và sinh viên gồm các thông tin: họ tên, giới tính
+        + Giảng viên có thêm thông tin: cấp bậc (vd: thạc sĩ, tiến sĩ, ...)
+        + Sinh viên __________________: mã sinh viên, niên khóa (vd: 2018 - 2022, 2015 - 2020, ...), điểm
+    - Ứng với mỗi lớp môn học, viết chương trình:
+        + Tìm kiếm sinh viên theo tên
+        + Lọc các sinh viên có điểm > 6
+
+Bài 3: (Sử dụng BaseComponent đã cài đặt) để xây dựng giao diện sau (Chưa cần sử dụng css - ai biết cách xài thì cứ xài :D)
+    - Gợi ý:
+        + Chỉ cần 1 component: manga-container với các thuộc tính: ảnh(image), tên truyện(name), số lượt xem(view), số lượt thích(likes)
+        + Ảnh của giao diện sẽ đăng ở post sau =))
